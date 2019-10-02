@@ -7,4 +7,4 @@ board.on("ready", function() {
   var myPiezo = new five.Piezo(3);
 
   myPiezo.frequency(587, 1000); // Play note d5 for 1 second
-}
+});
