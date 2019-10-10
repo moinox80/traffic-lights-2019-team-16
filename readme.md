@@ -1,7 +1,11 @@
-# CM1100 Traffic Light Repository
-A readme.md file usually tells someone looking at your repository what it contains. 
-It would be good if you used it to tell me what files your have added to make your Trafic Light work ;)
+# Group 16's CM1100 Traffic Light Submission
 
-Currently in this repo there are all the solutions to the labs and the code you saw in the Buttons and Buzzers lecture. I hope you can use all of these to create your own amazing traffic light.
+## File
+The traffic light code is in <a href="./traffic-light.js">traffic-light.js</a>
 
-You can upload your files simply by clicking the UPLOAD FILES button above.
+## Members
+Group 16 is comprised of:
+* <a href="https://github.com/rigbone1">David Graham</a>
+* <a href="https://github.com/moinox80">Ander M. Urrutia</a>
+* <a href="https://github.com/Antonia1365">Antonia Zhekova</a>
+* <a href="https://github.com/EuanDoyle">Euan Doyle</a>
